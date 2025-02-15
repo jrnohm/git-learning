@@ -14,12 +14,6 @@ function Login() {
   };
   return (
     <div>
-      {/* <div className="absolute bg-cover left-0 w-[50%]  hidden lg:block">
-        <div className="flex justify-center mt-[170px]">
-          <img src={clean} alt="left" className="w-full"></img>
-        </div>
-      </div> */}
-
       <div className="place-content-center bg-cover  w-full  min-h-[100vh] bg-[#93cbee39]">
         <div className="mx-[20px] flex justify-center">
           <img
