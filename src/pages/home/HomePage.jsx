@@ -36,6 +36,7 @@ function HomePage() {
           (U-Delight @Talat Phlu)
         </div>
       </div>
+      <div>ทดสอบชนกันจ้า</div>
 
       <div className=" flex justify-center sticky  top-0 z-20 py-4">
         <img
