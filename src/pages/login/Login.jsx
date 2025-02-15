@@ -20,7 +20,7 @@ function Login() {
         </div>
       </div> */}
       <div>ทดสอบ</div>
-      <div>ทดสอบชนกัน</div>
+      <div>ทดสอบชนกันจ้า</div>
       <div className="place-content-center bg-cover  w-full  min-h-[100vh] bg-[#93cbee39]">
         <div className="mx-[20px] flex justify-center">
           <img
